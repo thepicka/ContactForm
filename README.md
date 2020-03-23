@@ -1,5 +1,5 @@
-# hello-world
-started with simple hello world app and thened to Contact Form app.
+# Contact-form
+started with simple Contact Form app.
 1. First of all git clone the code from git repo then proceed with the below  commands
 ## Project setup
 ```
