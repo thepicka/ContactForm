@@ -38,11 +38,14 @@ npm install axios --save
 ....
 
 ### For unit test Vue util and jest
-npm install --save-dev @vue/test-utils
-vue add unit-jest
-npm install --save-dev jest jest-vue-preprocessor babel-jest jsdom vue-server-renderer
+npm install --save-dev @vue/test-utils.    
+....
+vue add unit-jest.  
+....
+npm install --save-dev jest jest-vue-preprocessor babel-jest jsdom vue-server-renderer.   
 ....
 
 ### Command to run unit test. This need to be added in package.json also under script.
 npm run test:unit
 ....
+
