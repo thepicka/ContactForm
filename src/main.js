@@ -1,8 +1,11 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue';
+import Vuelidate from 'vuelidate';
 
-Vue.config.productionTip = false
+import App from './App';
+
+Vue.use(Vuelidate);
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+    el: '#app',
+    render: h => h(App)
+});
