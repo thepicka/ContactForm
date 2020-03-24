@@ -1,6 +1,12 @@
 # Contact-form
 started with simple Contact Form app.
 1. First of all git clone the code from git repo then proceed with the below  commands
+
+## Project Creation
+vue create Contact-form
+....
+This command will create the vue.js project with the name Contact-form and it will have src folder which will have component and html page
+
 ## Project setup
 ```
 npm install
